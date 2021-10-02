@@ -10,3 +10,10 @@
 /UnitTestProject1/bin/Debug/netcoreapp3.1
 /UnitTestProject1/obj
 /.vs
+/ChocolateBrand/bin/Debug/net5.0
+/ChocolateBrand/obj
+/Entities/bin/Debug/net5.0
+/Entities/obj
+/Repository/obj
+/Services/bin/Debug/net5.0
+/Services/obj
